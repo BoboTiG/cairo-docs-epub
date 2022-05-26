@@ -1,3 +1,9 @@
+# EPUB of the StarkNet and Cairo Documentation
+
+Unofficial EPUB of the [EPUB of the StarkNet and Cairo documentation](https://www.cairo-lang.org/docs/).
+
+Last updated: `2022-05-26`.
+
 ## Setup
 
 ```bash
