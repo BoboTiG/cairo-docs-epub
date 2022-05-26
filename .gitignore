@@ -1,0 +1,4 @@
+*.sdr
+__pycache__/
+tmp/
+venv/
