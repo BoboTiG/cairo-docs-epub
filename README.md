@@ -4,7 +4,7 @@ Unofficial EPUB of the [StarkNet and Cairo documentation](https://www.cairo-lang
 
 Last updated: `2022-05-26`.
 
-## Setup
+## Setup
 
 ```bash
 $ python3 -m venv --copies venv
@@ -15,12 +15,11 @@ $ python -m pip install -r requirements.txt
 
 Additionally, you want to install `epubcheck`.
 
-## Fetch, and Convert
+## Fetch, and Convert
 
 ```bash
 $ python -m src
 ```
-
 ## Hack
 
 ```bash
