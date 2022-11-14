@@ -3,7 +3,7 @@
 Unofficial EPUB of the [StarkNet and Cairo documentation](https://www.cairo-lang.org/docs/).
 
 - Download: [starknet-and-cairo-documentation.epub](output/starknet-and-cairo-documentation.epub)
-- Last updated: `2022-05-26`.
+- Last updated: `2022-11-14`.
 
 ## Setup
 
